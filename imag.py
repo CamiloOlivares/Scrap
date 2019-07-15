@@ -15,9 +15,7 @@ class ItemValue:
         self.val = val 
         self.ind = ind 
         self.cost = val // wt 
-  
-    def __lt__(self, other): 
-        return self.cost < other.cost 
+
   
 # Greedy Approach 
 class FractionalKnapSack: 
@@ -32,7 +30,10 @@ class FractionalKnapSack:
             iVal.append(ItemValue(wt[i], val[i], ind[i])) 
   
         # sorting items by value 
-        iVal.sort(reverse = True) 
+        iVal = sorted(iVal,key=lambda product:product.wt) 
+        for i in range(len(wt)):
+        	print("product peso",iVal[i].wt,iVal[i].ind)
+
         totalValue = 0
         print(len(iVal))
         print(iVal[0].wt)
