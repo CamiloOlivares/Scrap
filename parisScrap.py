@@ -29,7 +29,7 @@ filename = "tablas/Paris.csv"
 
 f = open(filename,"w")
 
-headers = "item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_producto \n"
+headers = "item_id,categoria,nombre_de_producto,precio_de_producto,descuento,url_producto \n"
 
 f.write(headers)
 # abriendo una conexión, obteniendo la página web
@@ -65,9 +65,18 @@ for i in my_url:
 			product_price = price_container[0].text.strip()		
 		
 		try:
-			precioNormal = container.find("span",{"itemprop":"price"}).text.strip()
+			numeroDescuento = int(container.find("span",{"itemprop":"price"}).text.strip().replace('$','').replace('.',''))-int(product_price.replace('$','').replace('.',''))
+			descuento = '$'+str(int((numeroDescuento-numeroDescuento%1000)/1000))+'.'
+			if str(int(numeroDescuento%1000))=='0' and numeroDescuento!=0:
+				descuento = descuento + '000'
+			elif str(int(numeroDescuento%1000))!='0':
+				descuento = descuento+str(int(numeroDescuento%1000))
+			elif numeroDescuento==0:
+				descuento = '$'+str(numeroDescuento)
+					 	  
+
 		except AttributeError:
-			precioNormal = '$0' 					
+			descuento = '$0'				
 		#product_url
 		url_container = container.find("a",{"class":"js-product-layer"})
 		product_url = url_container["href"]
@@ -117,7 +126,7 @@ for i in my_url:
 			categoria ="Calzones"			
 					
 		if product_price != "N/A" and descargaExitosa[1]!='':
-			f.write(item_id+categoriaId + ","+categoria+","+product_name + "," + product_price + "," + precioNormal +","+ product_url + "\n")
+			f.write(item_id+categoriaId + ","+categoria+","+product_name + "," + product_price + "," + descuento +","+ product_url + "\n")
 	contador += 1		
 f.close()
 

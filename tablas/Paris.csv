@@ -1,17 +1,17 @@
-item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_producto 
-714580PH,Parkas Hombre,Biker Opposite,$12.990,$29.990,https://www.paris.cl/biker-opposite-714580.html?dwvar_714580_color=0301&cgid=mujJuvChaquetasParkas
-532791PH,Parkas Hombre,Calza Algodon Adidas ,$17.490,$24.990,https://www.paris.cl/calza-algodon-adidas%C2%A0-532791.html?dwvar_532791_color=0001&cgid=mujJuvChaquetasParkas
-532779PH,Parkas Hombre,Calza Tiro Medio Adidas ,$17.490,$24.990,https://www.paris.cl/calza-tiro-medio-adidas%C2%A0-532779.html?dwvar_532779_color=0500&cgid=mujJuvChaquetasParkas
-487781PH,Parkas Hombre,Casaca Bolsillos Mujer Gorro Chiporro Maui,$35.990,$59.990,https://www.paris.cl/casaca-bolsillos-mujer-gorro-chiporro-maui-487781.html?dwvar_487781_color=0200&cgid=mujJuvChaquetasParkas
-532794PH,Parkas Hombre,Pantalon Bandas Adidas ,$20.990,$29.990,https://www.paris.cl/pantalon-bandas-adidas%C2%A0-532794.html?dwvar_532794_color=0650&cgid=mujJuvChaquetasParkas
-414355PH,Parkas Hombre,Blazer Reptil Foster,$19.990,$59.990,https://www.paris.cl/blazer-reptil-foster-414355.html?dwvar_414355_color=0001&cgid=mujJuvChaquetasParkas
-525166PH,Parkas Hombre,Chaqueta Denim American Eagle,$25.000,$49.990,https://www.paris.cl/chaqueta-denim-american-eagle-525166.html?dwvar_525166_color=0460&cgid=mujJuvChaquetasParkas
-479434PH,Parkas Hombre,Biker Trucker Cargo Opposite,$24.990,$39.990,https://www.paris.cl/biker-trucker-cargo-opposite-479434.html?dwvar_479434_color=0210&cgid=mujJuvChaquetasParkas
-474416PH,Parkas Hombre,Chaqueta Denim Opposite,$19.990,$24.990,https://www.paris.cl/chaqueta-denim-opposite-474416.html?dwvar_474416_color=0010&cgid=mujJuvChaquetasParkas
+item_id,categoria,nombre_de_producto,precio_de_producto,descuento,url_producto 
+714580PH,Parkas Hombre,Biker Opposite,$12.990,$17.000,https://www.paris.cl/biker-opposite-714580.html?dwvar_714580_color=0301&cgid=mujJuvChaquetasParkas
+532791PH,Parkas Hombre,Calza Algodon Adidas ,$17.490,$7.500,https://www.paris.cl/calza-algodon-adidas%C2%A0-532791.html?dwvar_532791_color=0001&cgid=mujJuvChaquetasParkas
+532779PH,Parkas Hombre,Calza Tiro Medio Adidas ,$17.490,$7.500,https://www.paris.cl/calza-tiro-medio-adidas%C2%A0-532779.html?dwvar_532779_color=0500&cgid=mujJuvChaquetasParkas
+487781PH,Parkas Hombre,Casaca Bolsillos Mujer Gorro Chiporro Maui,$35.990,$24.000,https://www.paris.cl/casaca-bolsillos-mujer-gorro-chiporro-maui-487781.html?dwvar_487781_color=0200&cgid=mujJuvChaquetasParkas
+532794PH,Parkas Hombre,Pantalon Bandas Adidas ,$20.990,$9.000,https://www.paris.cl/pantalon-bandas-adidas%C2%A0-532794.html?dwvar_532794_color=0650&cgid=mujJuvChaquetasParkas
+414355PH,Parkas Hombre,Blazer Reptil Foster,$19.990,$40.000,https://www.paris.cl/blazer-reptil-foster-414355.html?dwvar_414355_color=0001&cgid=mujJuvChaquetasParkas
+525166PH,Parkas Hombre,Chaqueta Denim American Eagle,$25.000,$24.990,https://www.paris.cl/chaqueta-denim-american-eagle-525166.html?dwvar_525166_color=0460&cgid=mujJuvChaquetasParkas
+479434PH,Parkas Hombre,Biker Trucker Cargo Opposite,$24.990,$15.000,https://www.paris.cl/biker-trucker-cargo-opposite-479434.html?dwvar_479434_color=0210&cgid=mujJuvChaquetasParkas
+474416PH,Parkas Hombre,Chaqueta Denim Opposite,$19.990,$5.000,https://www.paris.cl/chaqueta-denim-opposite-474416.html?dwvar_474416_color=0010&cgid=mujJuvChaquetasParkas
 474599PH,Parkas Hombre,Casaca Cotele Aussie,$39.990,$0,https://www.paris.cl/casaca-cotele-aussie-474599.html?dwvar_474599_color=0001&cgid=mujJuvChaquetasParkas
-545627PH,Parkas Hombre,Blazer Aplicacion Hombros iO,$24.990,$49.990,https://www.paris.cl/blazer-aplicacion-hombros-io-545627.html?dwvar_545627_color=0020&cgid=mujJuvChaquetasParkas
+545627PH,Parkas Hombre,Blazer Aplicacion Hombros iO,$24.990,$25.000,https://www.paris.cl/blazer-aplicacion-hombros-io-545627.html?dwvar_545627_color=0020&cgid=mujJuvChaquetasParkas
 590267PH,Parkas Hombre,Parka Sin Manga Entrada Merrell,$74.990,$0,https://www.paris.cl/parka-sin-manga-entrada-merrell-590267.html?dwvar_590267_color=0101&cgid=mujJuvChaquetasParkas
-532792PH,Parkas Hombre,Pantalon Franjas Adidas ,$30.090,$42.990,https://www.paris.cl/pantalon-franjas-adidas%C2%A0-532792.html?dwvar_532792_color=0300&cgid=mujJuvChaquetasParkas
+532792PH,Parkas Hombre,Pantalon Franjas Adidas ,$30.090,$12.900,https://www.paris.cl/pantalon-franjas-adidas%C2%A0-532792.html?dwvar_532792_color=0300&cgid=mujJuvChaquetasParkas
 580115PH,Parkas Hombre,Biker Suede Opposite,$16.990,$0,https://www.paris.cl/biker-suede-opposite-580115.html?dwvar_580115_color=0960&cgid=mujJuvChaquetasParkas
 590264PH,Parkas Hombre,Parka Sin Manga Entrada Negro Merrell,$74.990,$0,https://www.paris.cl/parka-sin-manga-entrada-negro-merrell-590264.html?dwvar_590264_color=0001&cgid=mujJuvChaquetasParkas
 647923PH,Parkas Hombre,Chaqueta Single Breasted Topshop,$89.990,$0,https://www.paris.cl/chaqueta-single-breasted-topshop-647923.html?dwvar_647923_color=9999&cgid=mujJuvChaquetasParkas
@@ -27,8 +27,8 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 574077PH,Parkas Hombre,Chaqueta Tie Dye Opposite,$29.990,$0,https://www.paris.cl/chaqueta-tie-dye-opposite-574077.html?dwvar_574077_color=0002&cgid=mujJuvChaquetasParkas
 473184PH,Parkas Hombre,Chaqueta Floral Umbrale ,$49.990,$0,https://www.paris.cl/chaqueta-floral-umbrale%C2%A0-473184.html?dwvar_473184_color=0960&cgid=mujJuvChaquetasParkas
 590312PH,Parkas Hombre,Parka Classic Poly Cartepillar,$49.990,$0,https://www.paris.cl/parka-classic-poly-cartepillar-590312.html?dwvar_590312_color=0101&cgid=mujJuvChaquetasParkas
-560221PH,Parkas Hombre,Chaqueta Cuero Topshop,$129.990,$199.990,https://www.paris.cl/chaqueta-cuero-topshop-560221.html?dwvar_560221_color=9999&cgid=mujJuvChaquetasParkas
-487783PH,Parkas Hombre,Casaca Mujer Diseño Cierre Cruzado Maui,$32.990,$54.990,https://www.paris.cl/casaca-mujer-diseno-cierre-cruzado-maui-487783.html?dwvar_487783_color=0020&cgid=mujJuvChaquetasParkas
+560221PH,Parkas Hombre,Chaqueta Cuero Topshop,$129.990,$70.000,https://www.paris.cl/chaqueta-cuero-topshop-560221.html?dwvar_560221_color=9999&cgid=mujJuvChaquetasParkas
+487783PH,Parkas Hombre,Casaca Mujer Diseño Cierre Cruzado Maui,$32.990,$22.000,https://www.paris.cl/casaca-mujer-diseno-cierre-cruzado-maui-487783.html?dwvar_487783_color=0020&cgid=mujJuvChaquetasParkas
 590260PH,Parkas Hombre,Parka Entrada Merrell,$74.990,$0,https://www.paris.cl/parka-entrada-merrell-590260.html?dwvar_590260_color=0610&cgid=mujJuvChaquetasParkas
 514373PH,Parkas Hombre,Chaqueta Raw Camouflage Topshop,$49.990,$0,https://www.paris.cl/chaqueta-raw-camouflage-topshop-514373.html?dwvar_514373_color=9999&cgid=mujJuvChaquetasParkas
 653225PH,Parkas Hombre,Chaqueta Longline Ecru Topshop,$59.990,$0,https://www.paris.cl/chaqueta-longline-ecru-topshop-653225.html?dwvar_653225_color=9999&cgid=mujJuvChaquetasParkas
@@ -36,30 +36,30 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 882956PH,Parkas Hombre,Chaqueta Larga Pelo Setepontocinco,$45.990,$0,https://www.paris.cl/chaqueta-larga-pelo-setepontocinco-882956.html?dwvar_882956_color=0001&cgid=mujJuvChaquetasParkas
 526237PH,Parkas Hombre,Chaqueta Hacked Fitted Denim Topshop,$54.990,$0,https://www.paris.cl/chaqueta-hacked-fitted-denim-topshop-526237.html?dwvar_526237_color=9999&cgid=mujJuvChaquetasParkas
 474583PH,Parkas Hombre,Casaca Reversible Aussie,$44.990,$0,https://www.paris.cl/casaca-reversible-aussie-474583.html?dwvar_474583_color=0001&cgid=mujJuvChaquetasParkas
-474419PH,Parkas Hombre,Chaqueta Moda Opposite,$19.990,$24.990,https://www.paris.cl/chaqueta-moda-opposite-474419.html?dwvar_474419_color=0230&cgid=mujJuvChaquetasParkas
-532778PH,Parkas Hombre,Calza Originals Negro Adidas ,$17.490,$24.990,https://www.paris.cl/calza-originals-negro-adidas%C2%A0-532778.html?dwvar_532778_color=0001&cgid=mujJuvChaquetasParkas
-566807PH,Parkas Hombre,Abrigo Cropped Faux Fur Topshop,$31.990,$79.990,https://www.paris.cl/abrigo-cropped-faux-fur-topshop-566807.html?dwvar_566807_color=9999&cgid=mujJuvChaquetasParkas
-435117CH,Camisas Hombre,Camisa Escocesa de Franela American Eagle,$17.490,$34.990,https://www.paris.cl/camisa-escocesa-de-franela-american-eagle-435117.html?dwvar_435117_color=0008&cgid=homJuvCamisas
-272807CH,Camisas Hombre,Camisa Cuadrille Reef,$11.490,$22.990,https://www.paris.cl/camisa-cuadrille-reef-272807.html?dwvar_272807_color=0460&cgid=homJuvCamisas
-435092CH,Camisas Hombre,Camisa Militar American Eagle,$17.990,$44.990,https://www.paris.cl/camisa-militar-american-eagle-435092.html?dwvar_435092_color=0001&cgid=homJuvCamisas
+474419PH,Parkas Hombre,Chaqueta Moda Opposite,$19.990,$5.000,https://www.paris.cl/chaqueta-moda-opposite-474419.html?dwvar_474419_color=0230&cgid=mujJuvChaquetasParkas
+532778PH,Parkas Hombre,Calza Originals Negro Adidas ,$17.490,$7.500,https://www.paris.cl/calza-originals-negro-adidas%C2%A0-532778.html?dwvar_532778_color=0001&cgid=mujJuvChaquetasParkas
+566807PH,Parkas Hombre,Abrigo Cropped Faux Fur Topshop,$31.990,$48.000,https://www.paris.cl/abrigo-cropped-faux-fur-topshop-566807.html?dwvar_566807_color=9999&cgid=mujJuvChaquetasParkas
+435117CH,Camisas Hombre,Camisa Escocesa de Franela American Eagle,$17.490,$17.500,https://www.paris.cl/camisa-escocesa-de-franela-american-eagle-435117.html?dwvar_435117_color=0008&cgid=homJuvCamisas
+272807CH,Camisas Hombre,Camisa Cuadrille Reef,$11.490,$11.500,https://www.paris.cl/camisa-cuadrille-reef-272807.html?dwvar_272807_color=0460&cgid=homJuvCamisas
+435092CH,Camisas Hombre,Camisa Militar American Eagle,$17.990,$27.000,https://www.paris.cl/camisa-militar-american-eagle-435092.html?dwvar_435092_color=0001&cgid=homJuvCamisas
 435123CH,Camisas Hombre,Camisa Denim American Eagle,$34.990,$0,https://www.paris.cl/camisa-denim-american-eagle-435123.html?dwvar_435123_color=0400&cgid=homJuvCamisas
-928597CH,Camisas Hombre,Camisa Manga Corta Slim Print Oakley,$6.990,$24.990,https://www.paris.cl/camisa-manga-corta-slim-print-oakley-928597.html?dwvar_928597_color=0100&cgid=homJuvCamisas
-239296CH,Camisas Hombre,Camisa Denim American Eagle,$13.990,$34.990,https://www.paris.cl/camisa-denim-american-eagle-239296.html?dwvar_239296_color=0001&cgid=homJuvCamisas
+928597CH,Camisas Hombre,Camisa Manga Corta Slim Print Oakley,$6.990,$18.000,https://www.paris.cl/camisa-manga-corta-slim-print-oakley-928597.html?dwvar_928597_color=0100&cgid=homJuvCamisas
+239296CH,Camisas Hombre,Camisa Denim American Eagle,$13.990,$21.000,https://www.paris.cl/camisa-denim-american-eagle-239296.html?dwvar_239296_color=0001&cgid=homJuvCamisas
 435179CH,Camisas Hombre,Camisa Rayada American Eagle,$29.990,$0,https://www.paris.cl/camisa-rayada-american-eagle-435179.html?dwvar_435179_color=0400&cgid=homJuvCamisas
 212911CH,Camisas Hombre,Camisa Manga Corta Cuadros Legacy,$26.990,$0,https://www.paris.cl/camisa-manga-corta-cuadros-legacy-212911.html?dwvar_212911_color=0960&cgid=homJuvCamisas
 467477CH,Camisas Hombre,Camisa Lisa Foster,$29.990,$0,https://www.paris.cl/camisa-lisa-foster-467477.html?dwvar_467477_color=0001&cgid=homJuvCamisas
-956514CH,Camisas Hombre,Camisa Print QuikSilver,$6.990,$24.990,https://www.paris.cl/camisa-print-quiksilver-956514.html?dwvar_956514_color=0400&cgid=homJuvCamisas
+956514CH,Camisas Hombre,Camisa Print QuikSilver,$6.990,$18.000,https://www.paris.cl/camisa-print-quiksilver-956514.html?dwvar_956514_color=0400&cgid=homJuvCamisas
 212908CH,Camisas Hombre,Camisa Manga Corta Piñas Legacy,$26.990,$0,https://www.paris.cl/camisa-manga-corta-pinas-legacy-212908.html?dwvar_212908_color=0420&cgid=homJuvCamisas
 408382CH,Camisas Hombre,Camisa Rayada American Eagle,$29.990,$0,https://www.paris.cl/camisa-rayada-american-eagle-408382.html?dwvar_408382_color=0340&cgid=homJuvCamisas
 250898CH,Camisas Hombre,Camisa Estampada Surf Aussie,$19.990,$0,https://www.paris.cl/camisa-estampada-surf-aussie-250898.html?dwvar_250898_color=0010&cgid=homJuvCamisas
 198219CH,Camisas Hombre,Camisa Poplin Mini Print Essential Rainforest,$12.990,$0,https://www.paris.cl/camisa-poplin-mini-print-essential-rainforest-198219.html?dwvar_198219_color=0001&cgid=homJuvCamisas
-241977CH,Camisas Hombre,Camisa Mini Print JJO,$12.990,$24.990,https://www.paris.cl/camisa-mini-print-jjo-241977.html?dwvar_241977_color=0960&cgid=homJuvCamisas
-946239CH,Camisas Hombre,Camisa Tropical Floral  Cubavera,$9.990,$29.990,https://www.paris.cl/camisa-tropical-floral--cubavera-946239.html?dwvar_946239_color=0401&cgid=homJuvCamisas
+241977CH,Camisas Hombre,Camisa Mini Print JJO,$12.990,$12.000,https://www.paris.cl/camisa-mini-print-jjo-241977.html?dwvar_241977_color=0960&cgid=homJuvCamisas
+946239CH,Camisas Hombre,Camisa Tropical Floral  Cubavera,$9.990,$20.000,https://www.paris.cl/camisa-tropical-floral--cubavera-946239.html?dwvar_946239_color=0401&cgid=homJuvCamisas
 212893CH,Camisas Hombre,Camisa Manga Larga Cuadro Chico Legacy,$29.990,$0,https://www.paris.cl/camisa-manga-larga-cuadro-chico-legacy-212893.html?dwvar_212893_color=0420&cgid=homJuvCamisas
 192026CH,Camisas Hombre,Camisa Manga Larga Mini Print Collection Greenfield,$24.990,$0,https://www.paris.cl/camisa-manga-larga-mini-print-collection-greenfield-192026.html?dwvar_192026_color=0100&cgid=homJuvCamisas
 526506CH,Camisas Hombre,Camisa Casual Dark Red Geo Topman,$39.990,$0,https://www.paris.cl/camisa-casual-dark-red-geo-topman-526506.html?dwvar_526506_color=9999&cgid=homJuvCamisas
-927528CH,Camisas Hombre,Camisa Manga Corta Casual Foster,$6.990,$24.990,https://www.paris.cl/camisa-manga-corta-casual-foster-927528.html?dwvar_927528_color=0100&cgid=homJuvCamisas
-971959CH,Camisas Hombre,Camisa Estampada Converse,$9.990,$34.990,https://www.paris.cl/camisa-estampada-converse-971959.html?dwvar_971959_color=0001&cgid=homJuvCamisas
+927528CH,Camisas Hombre,Camisa Manga Corta Casual Foster,$6.990,$18.000,https://www.paris.cl/camisa-manga-corta-casual-foster-927528.html?dwvar_927528_color=0100&cgid=homJuvCamisas
+971959CH,Camisas Hombre,Camisa Estampada Converse,$9.990,$25.000,https://www.paris.cl/camisa-estampada-converse-971959.html?dwvar_971959_color=0001&cgid=homJuvCamisas
 476114CH,Camisas Hombre,Camisa Manga Larga Mini Print Opposite,$17.990,$0,https://www.paris.cl/camisa-manga-larga-mini-print-opposite-476114.html?dwvar_476114_color=0001&cgid=homJuvCamisas
 619815CH,Camisas Hombre,Camisa White Panel Slim Topman,$39.990,$0,https://www.paris.cl/camisa-white-panel-slim-topman-619815.html?dwvar_619815_color=9999&cgid=homJuvCamisas
 441964CH,Camisas Hombre,Camisa Manga Larga Tela Bifaz Camuflada JJO,$26.990,$0,https://www.paris.cl/camisa-manga-larga-tela-bifaz-camuflada-jjo-441964.html?dwvar_441964_color=0021&cgid=homJuvCamisas
@@ -79,82 +79,82 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 476201CH,Camisas Hombre,Camisa Jeans Mini Print Unlimited,$22.990,$0,https://www.paris.cl/camisa-jeans-mini-print-unlimited-476201.html?dwvar_476201_color=0420&cgid=homJuvCamisas
 476173CH,Camisas Hombre,Camisa Manga Larga Fil A Fil Unlimited,$22.990,$0,https://www.paris.cl/camisa-manga-larga-fil-a-fil-unlimited-476173.html?dwvar_476173_color=0050&cgid=homJuvCamisas
 239290CH,Camisas Hombre,Camisa Lisa American Eagle,$29.990,$0,https://www.paris.cl/camisa-lisa-american-eagle-239290.html?dwvar_239290_color=0100&cgid=homJuvCamisas
-118665JH,Jeans Hombre,Jeans Color Opposite,$4.990,$17.990,https://www.paris.cl/jeans-color-opposite-118665.html?dwvar_118665_color=0050&cgid=homJuvJeans
-395509JH,Jeans Hombre,Jeans Focalizado Rotura Opposite,$9.990,$19.990,https://www.paris.cl/jeans-focalizado-rotura-opposite-395509.html?dwvar_395509_color=0420&cgid=homJuvJeans
-395493JH,Jeans Hombre,Jeans Urbano Opposite,$9.990,$19.990,https://www.paris.cl/jeans-urbano-opposite-395493.html?dwvar_395493_color=0401&cgid=homJuvJeans
+118665JH,Jeans Hombre,Jeans Color Opposite,$4.990,$13.000,https://www.paris.cl/jeans-color-opposite-118665.html?dwvar_118665_color=0050&cgid=homJuvJeans
+395509JH,Jeans Hombre,Jeans Focalizado Rotura Opposite,$9.990,$10.000,https://www.paris.cl/jeans-focalizado-rotura-opposite-395509.html?dwvar_395509_color=0420&cgid=homJuvJeans
+395493JH,Jeans Hombre,Jeans Urbano Opposite,$9.990,$10.000,https://www.paris.cl/jeans-urbano-opposite-395493.html?dwvar_395493_color=0401&cgid=homJuvJeans
 467576JH,Jeans Hombre,Jeans Celeste Rasgado Foster,$29.990,$0,https://www.paris.cl/jeans-celeste-rasgado-foster-467576.html?dwvar_467576_color=0450&cgid=homJuvJeans
 248680JH,Jeans Hombre,Jeans Liso Fes,$9.990,$0,https://www.paris.cl/jeans-liso-fes-248680.html?dwvar_248680_color=0021&cgid=homJuvJeans
 248685JH,Jeans Hombre,Jeans Azul Oscuro Fes,$9.990,$0,https://www.paris.cl/jeans-azul-oscuro-fes-248685.html?dwvar_248685_color=0401&cgid=homJuvJeans
-451591JH,Jeans Hombre,Jeans Skinny Deyton Wrangler Celeste,$22.190,$36.990,https://www.paris.cl/jeans-skinny-deyton-wrangler-celeste-451591.html?dwvar_451591_color=0450&cgid=homJuvJeans
+451591JH,Jeans Hombre,Jeans Skinny Deyton Wrangler Celeste,$22.190,$14.800,https://www.paris.cl/jeans-skinny-deyton-wrangler-celeste-451591.html?dwvar_451591_color=0450&cgid=homJuvJeans
 476050JH,Jeans Hombre,Jeans Slim Fit Negro Aussie,$22.990,$0,https://www.paris.cl/jeans-slim-fit-negro-aussie-476050.html?dwvar_476050_color=0001&cgid=homJuvJeans
 248683JH,Jeans Hombre,Jeans Urbano Fes,$9.990,$0,https://www.paris.cl/jeans-urbano-fes-248683.html?dwvar_248683_color=0050&cgid=homJuvJeans
-514414JH,Jeans Hombre,Jeans Black Ripped Slim Topman,$19.990,$59.990,https://www.paris.cl/jeans-black-ripped-slim-topman-514414.html?dwvar_514414_color=9999&cgid=homJuvJeans
+514414JH,Jeans Hombre,Jeans Black Ripped Slim Topman,$19.990,$40.000,https://www.paris.cl/jeans-black-ripped-slim-topman-514414.html?dwvar_514414_color=9999&cgid=homJuvJeans
 248687JH,Jeans Hombre,Jeans Focalizado Azul Electrico Fes,$9.990,$0,https://www.paris.cl/jeans-focalizado-azul-electrico-fes-248687.html?dwvar_248687_color=0420&cgid=homJuvJeans
 442179JH,Jeans Hombre,Jeans Spray On Focalizado JJO,$26.990,$0,https://www.paris.cl/jeans-spray-on-focalizado-jjo-442179.html?dwvar_442179_color=0030&cgid=homJuvJeans
 490350JH,Jeans Hombre,Jeans Biker Opposite,$19.990,$0,https://www.paris.cl/jeans-biker-opposite-490350.html?dwvar_490350_color=0001&cgid=homJuvJeans
 117135JH,Jeans Hombre,Jeans Color 505-15 Levi s,$42.990,$0,https://www.paris.cl/jeans-color-505-15-levis-117135.html?dwvar_117135_color=0301&cgid=homJuvJeans
-240572JH,Jeans Hombre,Jeans Basico Super Skinny Foster,$19.990,$24.990,https://www.paris.cl/jeans-basico-super-skinny-foster-240572.html?dwvar_240572_color=0401&cgid=homJuvJeans
-434641JH,Jeans Hombre,Jeans Skinny American Eagle,$19.990,$49.990,https://www.paris.cl/jeans-skinny-american-eagle-434641.html?dwvar_434641_color=0460&cgid=homJuvJeans
-240589JH,Jeans Hombre,Jeans Basico Slim Negro Foster,$19.990,$24.990,https://www.paris.cl/jeans-basico-slim-negro-foster-240589.html?dwvar_240589_color=0001&cgid=homJuvJeans
-451387JH,Jeans Hombre,Jeans Slicker Jogg Lee,$23.990,$39.990,https://www.paris.cl/jeans-slicker-jogg-lee-451387.html?dwvar_451387_color=0001&cgid=homJuvJeans
-395611JH,Jeans Hombre,Jeans Liso Opposite,$9.990,$19.990,https://www.paris.cl/jeans-liso-opposite-395611.html?dwvar_395611_color=0001&cgid=homJuvJeans
-395520JH,Jeans Hombre,Jeans Slim Fit Negro Opposite,$9.990,$19.990,https://www.paris.cl/jeans-slim-fit-negro-opposite-395520.html?dwvar_395520_color=0001&cgid=homJuvJeans
+240572JH,Jeans Hombre,Jeans Basico Super Skinny Foster,$19.990,$5.000,https://www.paris.cl/jeans-basico-super-skinny-foster-240572.html?dwvar_240572_color=0401&cgid=homJuvJeans
+434641JH,Jeans Hombre,Jeans Skinny American Eagle,$19.990,$30.000,https://www.paris.cl/jeans-skinny-american-eagle-434641.html?dwvar_434641_color=0460&cgid=homJuvJeans
+240589JH,Jeans Hombre,Jeans Basico Slim Negro Foster,$19.990,$5.000,https://www.paris.cl/jeans-basico-slim-negro-foster-240589.html?dwvar_240589_color=0001&cgid=homJuvJeans
+451387JH,Jeans Hombre,Jeans Slicker Jogg Lee,$23.990,$16.000,https://www.paris.cl/jeans-slicker-jogg-lee-451387.html?dwvar_451387_color=0001&cgid=homJuvJeans
+395611JH,Jeans Hombre,Jeans Liso Opposite,$9.990,$10.000,https://www.paris.cl/jeans-liso-opposite-395611.html?dwvar_395611_color=0001&cgid=homJuvJeans
+395520JH,Jeans Hombre,Jeans Slim Fit Negro Opposite,$9.990,$10.000,https://www.paris.cl/jeans-slim-fit-negro-opposite-395520.html?dwvar_395520_color=0001&cgid=homJuvJeans
 516948JH,Jeans Hombre,Jeans Super Skinny Negro JJO,$17.990,$0,https://www.paris.cl/jeans-super-skinny-negro-jjo-516948.html?dwvar_516948_color=0001&cgid=homJuvJeans
-395614JH,Jeans Hombre,Jeans Rasgado Opposite,$9.990,$19.990,https://www.paris.cl/jeans-rasgado-opposite-395614.html?dwvar_395614_color=0420&cgid=homJuvJeans
-451488JH,Jeans Hombre,Jeans Slim Jacksville Wrangler,$23.390,$38.990,https://www.paris.cl/jeans-slim-jacksville-wrangler-451488.html?dwvar_451488_color=0401&cgid=homJuvJeans
+395614JH,Jeans Hombre,Jeans Rasgado Opposite,$9.990,$10.000,https://www.paris.cl/jeans-rasgado-opposite-395614.html?dwvar_395614_color=0420&cgid=homJuvJeans
+451488JH,Jeans Hombre,Jeans Slim Jacksville Wrangler,$23.390,$15.600,https://www.paris.cl/jeans-slim-jacksville-wrangler-451488.html?dwvar_451488_color=0401&cgid=homJuvJeans
 242233JH,Jeans Hombre,Jeans Super Skinny Destroyer Denim Alexis JJO,$29.990,$0,https://www.paris.cl/jeans-super-skinny-destroyer-denim-alexis-jjo-242233.html?dwvar_242233_color=0401&cgid=homJuvJeans
 516876JH,Jeans Hombre,Jeans Fit Liso Alexis Collection JJO,$17.990,$0,https://www.paris.cl/jeans-fit-liso-alexis-collection-jjo-516876.html?dwvar_516876_color=0408&cgid=homJuvJeans
-290354JH,Jeans Hombre,Jeans Color Essential Unlimited,$14.990,$19.990,https://www.paris.cl/jeans-color-essential-unlimited-290354.html?dwvar_290354_color=0001&cgid=homJuvJeans
+290354JH,Jeans Hombre,Jeans Color Essential Unlimited,$14.990,$5.000,https://www.paris.cl/jeans-color-essential-unlimited-290354.html?dwvar_290354_color=0001&cgid=homJuvJeans
 442171JH,Jeans Hombre,Jeans Spray On Crop Roturas Negro JJO,$26.990,$0,https://www.paris.cl/jeans-spray-on-crop-roturas-negro-jjo-442171.html?dwvar_442171_color=0001&cgid=homJuvJeans
-437362JH,Jeans Hombre,Jeans Stretch Skinny with Rips Topman,$19.990,$49.990,https://www.paris.cl/jeans-stretch-skinny-with-rips-topman-437362.html?dwvar_437362_color=9999&cgid=homJuvJeans
+437362JH,Jeans Hombre,Jeans Stretch Skinny with Rips Topman,$19.990,$30.000,https://www.paris.cl/jeans-stretch-skinny-with-rips-topman-437362.html?dwvar_437362_color=9999&cgid=homJuvJeans
 248693JH,Jeans Hombre,Jeans Skinny Fes,$9.990,$0,https://www.paris.cl/jeans-skinny-fes-248693.html?dwvar_248693_color=0001&cgid=homJuvJeans
 442153JH,Jeans Hombre,Jardinera Denim Roturas JJO,$34.990,$0,https://www.paris.cl/jardinera-denim-roturas-jjo-442153.html?dwvar_442153_color=0001&cgid=homJuvJeans
 284668JH,Jeans Hombre,Jeans Super Skinny Roturas Azul Oscuro Foster,$29.990,$0,https://www.paris.cl/jeans-super-skinny-roturas-azul-oscuro-foster-284668.html?dwvar_284668_color=0401&cgid=homJuvJeans
-451457JH,Jeans Hombre,Jeans Slim Deyton Wrangler Azul,$25.790,$42.990,https://www.paris.cl/jeans-slim-deyton-wrangler-azul-451457.html?dwvar_451457_color=0400&cgid=homJuvJeans
-235687JH,Jeans Hombre,Jeans Basico Rainforest,$7.990,$12.990,https://www.paris.cl/jeans-basico-rainforest-235687.html?dwvar_235687_color=0420&cgid=homJuvJeans
-526465JH,Jeans Hombre,Jeans Mid Wash Rip Skinny Topman,$19.990,$49.990,https://www.paris.cl/jeans-mid-wash-rip-skinny-topman-526465.html?dwvar_526465_color=9999&cgid=homJuvJeans
-434549JH,Jeans Hombre,Jeans Slim Straight Ne(X)t Level American Eagle,$21.990,$54.990,https://www.paris.cl/jeans-slim-straight-next-level-american-eagle-434549.html?dwvar_434549_color=0401&cgid=homJuvJeans
-235696JH,Jeans Hombre,Jeans Basico Essential Rainforest,$7.990,$12.990,https://www.paris.cl/jeans-basico-essential-rainforest-235696.html?dwvar_235696_color=0030&cgid=homJuvJeans
+451457JH,Jeans Hombre,Jeans Slim Deyton Wrangler Azul,$25.790,$17.200,https://www.paris.cl/jeans-slim-deyton-wrangler-azul-451457.html?dwvar_451457_color=0400&cgid=homJuvJeans
+235687JH,Jeans Hombre,Jeans Basico Rainforest,$7.990,$5.000,https://www.paris.cl/jeans-basico-rainforest-235687.html?dwvar_235687_color=0420&cgid=homJuvJeans
+526465JH,Jeans Hombre,Jeans Mid Wash Rip Skinny Topman,$19.990,$30.000,https://www.paris.cl/jeans-mid-wash-rip-skinny-topman-526465.html?dwvar_526465_color=9999&cgid=homJuvJeans
+434549JH,Jeans Hombre,Jeans Slim Straight Ne(X)t Level American Eagle,$21.990,$33.000,https://www.paris.cl/jeans-slim-straight-next-level-american-eagle-434549.html?dwvar_434549_color=0401&cgid=homJuvJeans
+235696JH,Jeans Hombre,Jeans Basico Essential Rainforest,$7.990,$5.000,https://www.paris.cl/jeans-basico-essential-rainforest-235696.html?dwvar_235696_color=0030&cgid=homJuvJeans
 414428JH,Jeans Hombre,Jeans Skinny Roturas Azulino Foster,$29.990,$0,https://www.paris.cl/jeans-skinny-roturas-azulino-foster-414428.html?dwvar_414428_color=0420&cgid=homJuvJeans
 414459JH,Jeans Hombre,Jeans Skinny Foster,$29.990,$0,https://www.paris.cl/jeans-skinny-foster-414459.html?dwvar_414459_color=0401&cgid=homJuvJeans
 619821JH,Jeans Hombre,Jeans 505 Recto Denim Levi s,$44.990,$0,https://www.paris.cl/jeans-505-recto-denim-levis-619821.html?dwvar_619821_color=9999&cgid=homJuvJeans
 657192JH,Jeans Hombre,Jeans 511 Focalizado Levi s,$44.990,$0,https://www.paris.cl/jeans-511-focalizado-levis-657192.html?dwvar_657192_color=0420&cgid=homJuvJeans
-143148BH,Boxers Hombre,Pack 2 Boxer Microfibra Palmers,$5.990,$9.990,https://www.paris.cl/pack-2-boxer-microfibra-palmers-143148.html?dwvar_143148_color=0999&cgid=homIntBoxers
-436228BH,Boxers Hombre,Pack 2 Boxer Diseños Palmers,$5.990,$12.990,https://www.paris.cl/pack-2-boxer-disenos-palmers-436228.html?dwvar_436228_color=9997&cgid=homIntBoxers
-205827BH,Boxers Hombre,Slip Evolution Calvin Kelin,$19.990,$29.990,https://www.paris.cl/slip-evolution-calvin-kelin-205827.html?dwvar_205827_color=0001&cgid=homIntBoxers
-251006BH,Boxers Hombre,Boxer Estampado Full Opposite,$3.990,$12.990,https://www.paris.cl/boxer-estampado-full-opposite-251006.html?dwvar_251006_color=0960&cgid=homIntBoxers
-555404BH,Boxers Hombre,Pack 2 Boxer Color Palmers,$5.990,$12.990,https://www.paris.cl/pack-2-boxer-color-palmers-555404.html?dwvar_555404_color=9997&cgid=homIntBoxers
+143148BH,Boxers Hombre,Pack 2 Boxer Microfibra Palmers,$5.990,$4.000,https://www.paris.cl/pack-2-boxer-microfibra-palmers-143148.html?dwvar_143148_color=0999&cgid=homIntBoxers
+436228BH,Boxers Hombre,Pack 2 Boxer Diseños Palmers,$5.990,$7.000,https://www.paris.cl/pack-2-boxer-disenos-palmers-436228.html?dwvar_436228_color=9997&cgid=homIntBoxers
+205827BH,Boxers Hombre,Slip Evolution Calvin Kelin,$19.990,$10.000,https://www.paris.cl/slip-evolution-calvin-kelin-205827.html?dwvar_205827_color=0001&cgid=homIntBoxers
+251006BH,Boxers Hombre,Boxer Estampado Full Opposite,$3.990,$9.000,https://www.paris.cl/boxer-estampado-full-opposite-251006.html?dwvar_251006_color=0960&cgid=homIntBoxers
+555404BH,Boxers Hombre,Pack 2 Boxer Color Palmers,$5.990,$7.000,https://www.paris.cl/pack-2-boxer-color-palmers-555404.html?dwvar_555404_color=9997&cgid=homIntBoxers
 262849BH,Boxers Hombre,Pack 2 Boxer Corto Print Gangsta,$10.990,$0,https://www.paris.cl/pack-2-boxer-corto-print-gangsta-262849.html?dwvar_262849_color=0020&cgid=homIntBoxers
 205678BH,Boxers Hombre,Boxer Liso Corto Calvin Klein,$29.990,$0,https://www.paris.cl/boxer-liso-corto-calvin-klein-205678.html?dwvar_205678_color=0001&cgid=homIntBoxers
 205549BH,Boxers Hombre,Boxer Corto Calvin Klein,$29.990,$0,https://www.paris.cl/boxer-corto-calvin-klein-205549.html?dwvar_205549_color=0001&cgid=homIntBoxers
 205579BH,Boxers Hombre,Boxer Modern Calvin Klein,$29.990,$0,https://www.paris.cl/boxer-modern-calvin-klein-205579.html?dwvar_205579_color=0001&cgid=homIntBoxers
-251008BH,Boxers Hombre,Boxer Estampad Animacion Opposite,$3.990,$12.990,https://www.paris.cl/boxer-estampad-animacion-opposite-251008.html?dwvar_251008_color=0960&cgid=homIntBoxers
+251008BH,Boxers Hombre,Boxer Estampad Animacion Opposite,$3.990,$9.000,https://www.paris.cl/boxer-estampad-animacion-opposite-251008.html?dwvar_251008_color=0960&cgid=homIntBoxers
 804380BH,Boxers Hombre,Pack 4 Slip Liso Palmers,$11.990,$0,https://www.paris.cl/pack-4-slip-liso-palmers-804380.html?dwvar_804380_color=0001&cgid=homIntBoxers
 804375BH,Boxers Hombre,Slip Algodon Clasico Palmers,$9.990,$0,https://www.paris.cl/slip-algodon-clasico-palmers-804375.html?dwvar_804375_color=0001&cgid=homIntBoxers
 804384BH,Boxers Hombre,Boxer Pack 5 Pares Liso Palmers,$16.990,$0,https://www.paris.cl/boxer-pack-5-pares-liso-palmers-804384.html?dwvar_804384_color=0100&cgid=homIntBoxers
-552800BH,Boxers Hombre,Boxer Colores Palmers,$6.990,$8.990,https://www.paris.cl/boxer-colores-palmers-552800.html?dwvar_552800_color=0301&cgid=homIntBoxers
+552800BH,Boxers Hombre,Boxer Colores Palmers,$6.990,$2.000,https://www.paris.cl/boxer-colores-palmers-552800.html?dwvar_552800_color=0301&cgid=homIntBoxers
 804398BH,Boxers Hombre,Pack 2 Boxer Colorido Palmers,$12.990,$0,https://www.paris.cl/pack-2-boxer-colorido-palmers-804398.html?dwvar_804398_color=0700&cgid=homIntBoxers
-436229BH,Boxers Hombre,Pack 2 Boxer Multicolor Palmers,$5.990,$9.990,https://www.paris.cl/pack-2-boxer-multicolor-palmers-436229.html?dwvar_436229_color=9997&cgid=homIntBoxers
+436229BH,Boxers Hombre,Pack 2 Boxer Multicolor Palmers,$5.990,$4.000,https://www.paris.cl/pack-2-boxer-multicolor-palmers-436229.html?dwvar_436229_color=9997&cgid=homIntBoxers
 457440BH,Boxers Hombre,Pack 2 Boxer Full Print Gangsta,$9.990,$0,https://www.paris.cl/pack-2-boxer-full-print-gangsta-457440.html?dwvar_457440_color=0100&cgid=homIntBoxers
 804383BH,Boxers Hombre,Boxer Liso Palmers,$16.990,$0,https://www.paris.cl/boxer-liso-palmers-804383.html?dwvar_804383_color=0999&cgid=homIntBoxers
-710501BH,Boxers Hombre,Slip Pack 3 Pares Liso Palmers,$7.990,$8.990,https://www.paris.cl/slip-pack-3-pares-liso-palmers-710501.html?dwvar_710501_color=0050&cgid=homIntBoxers
-804396BH,Boxers Hombre,Boxer Largo Cobre Palmers,$9.990,$12.990,https://www.paris.cl/boxer-largo-cobre-palmers-804396.html?dwvar_804396_color=0999&cgid=homIntBoxers
+710501BH,Boxers Hombre,Slip Pack 3 Pares Liso Palmers,$7.990,$1.000,https://www.paris.cl/slip-pack-3-pares-liso-palmers-710501.html?dwvar_710501_color=0050&cgid=homIntBoxers
+804396BH,Boxers Hombre,Boxer Largo Cobre Palmers,$9.990,$3.000,https://www.paris.cl/boxer-largo-cobre-palmers-804396.html?dwvar_804396_color=0999&cgid=homIntBoxers
 804391BH,Boxers Hombre,Boxer Largo Bamboo Special Palmers,$12.990,$0,https://www.paris.cl/boxer-largo-bamboo-special-palmers-804391.html?dwvar_804391_color=0601&cgid=homIntBoxers
 804379BH,Boxers Hombre,Boxer Color Plamers,$11.990,$0,https://www.paris.cl/boxer-color-plamers-804379.html?dwvar_804379_color=0600&cgid=homIntBoxers
 804378BH,Boxers Hombre,Boxer Print Palmers,$11.990,$0,https://www.paris.cl/boxer-print-palmers-804378.html?dwvar_804378_color=0999&cgid=homIntBoxers
-714580PM,Parkas Mujer,Biker Opposite,$12.990,$29.990,https://www.paris.cl/biker-opposite-714580.html?dwvar_714580_color=0301&cgid=mujJuvChaquetasParkas
-532791PM,Parkas Mujer,Calza Algodon Adidas ,$17.490,$24.990,https://www.paris.cl/calza-algodon-adidas%C2%A0-532791.html?dwvar_532791_color=0001&cgid=mujJuvChaquetasParkas
-532779PM,Parkas Mujer,Calza Tiro Medio Adidas ,$17.490,$24.990,https://www.paris.cl/calza-tiro-medio-adidas%C2%A0-532779.html?dwvar_532779_color=0500&cgid=mujJuvChaquetasParkas
-487781PM,Parkas Mujer,Casaca Bolsillos Mujer Gorro Chiporro Maui,$35.990,$59.990,https://www.paris.cl/casaca-bolsillos-mujer-gorro-chiporro-maui-487781.html?dwvar_487781_color=0200&cgid=mujJuvChaquetasParkas
-532794PM,Parkas Mujer,Pantalon Bandas Adidas ,$20.990,$29.990,https://www.paris.cl/pantalon-bandas-adidas%C2%A0-532794.html?dwvar_532794_color=0650&cgid=mujJuvChaquetasParkas
-414355PM,Parkas Mujer,Blazer Reptil Foster,$19.990,$59.990,https://www.paris.cl/blazer-reptil-foster-414355.html?dwvar_414355_color=0001&cgid=mujJuvChaquetasParkas
-525166PM,Parkas Mujer,Chaqueta Denim American Eagle,$25.000,$49.990,https://www.paris.cl/chaqueta-denim-american-eagle-525166.html?dwvar_525166_color=0460&cgid=mujJuvChaquetasParkas
-479434PM,Parkas Mujer,Biker Trucker Cargo Opposite,$24.990,$39.990,https://www.paris.cl/biker-trucker-cargo-opposite-479434.html?dwvar_479434_color=0210&cgid=mujJuvChaquetasParkas
-474416PM,Parkas Mujer,Chaqueta Denim Opposite,$19.990,$24.990,https://www.paris.cl/chaqueta-denim-opposite-474416.html?dwvar_474416_color=0010&cgid=mujJuvChaquetasParkas
+714580PM,Parkas Mujer,Biker Opposite,$12.990,$17.000,https://www.paris.cl/biker-opposite-714580.html?dwvar_714580_color=0301&cgid=mujJuvChaquetasParkas
+532791PM,Parkas Mujer,Calza Algodon Adidas ,$17.490,$7.500,https://www.paris.cl/calza-algodon-adidas%C2%A0-532791.html?dwvar_532791_color=0001&cgid=mujJuvChaquetasParkas
+532779PM,Parkas Mujer,Calza Tiro Medio Adidas ,$17.490,$7.500,https://www.paris.cl/calza-tiro-medio-adidas%C2%A0-532779.html?dwvar_532779_color=0500&cgid=mujJuvChaquetasParkas
+487781PM,Parkas Mujer,Casaca Bolsillos Mujer Gorro Chiporro Maui,$35.990,$24.000,https://www.paris.cl/casaca-bolsillos-mujer-gorro-chiporro-maui-487781.html?dwvar_487781_color=0200&cgid=mujJuvChaquetasParkas
+532794PM,Parkas Mujer,Pantalon Bandas Adidas ,$20.990,$9.000,https://www.paris.cl/pantalon-bandas-adidas%C2%A0-532794.html?dwvar_532794_color=0650&cgid=mujJuvChaquetasParkas
+414355PM,Parkas Mujer,Blazer Reptil Foster,$19.990,$40.000,https://www.paris.cl/blazer-reptil-foster-414355.html?dwvar_414355_color=0001&cgid=mujJuvChaquetasParkas
+525166PM,Parkas Mujer,Chaqueta Denim American Eagle,$25.000,$24.990,https://www.paris.cl/chaqueta-denim-american-eagle-525166.html?dwvar_525166_color=0460&cgid=mujJuvChaquetasParkas
+479434PM,Parkas Mujer,Biker Trucker Cargo Opposite,$24.990,$15.000,https://www.paris.cl/biker-trucker-cargo-opposite-479434.html?dwvar_479434_color=0210&cgid=mujJuvChaquetasParkas
+474416PM,Parkas Mujer,Chaqueta Denim Opposite,$19.990,$5.000,https://www.paris.cl/chaqueta-denim-opposite-474416.html?dwvar_474416_color=0010&cgid=mujJuvChaquetasParkas
 474599PM,Parkas Mujer,Casaca Cotele Aussie,$39.990,$0,https://www.paris.cl/casaca-cotele-aussie-474599.html?dwvar_474599_color=0001&cgid=mujJuvChaquetasParkas
-545627PM,Parkas Mujer,Blazer Aplicacion Hombros iO,$24.990,$49.990,https://www.paris.cl/blazer-aplicacion-hombros-io-545627.html?dwvar_545627_color=0020&cgid=mujJuvChaquetasParkas
+545627PM,Parkas Mujer,Blazer Aplicacion Hombros iO,$24.990,$25.000,https://www.paris.cl/blazer-aplicacion-hombros-io-545627.html?dwvar_545627_color=0020&cgid=mujJuvChaquetasParkas
 590267PM,Parkas Mujer,Parka Sin Manga Entrada Merrell,$74.990,$0,https://www.paris.cl/parka-sin-manga-entrada-merrell-590267.html?dwvar_590267_color=0101&cgid=mujJuvChaquetasParkas
-532792PM,Parkas Mujer,Pantalon Franjas Adidas ,$30.090,$42.990,https://www.paris.cl/pantalon-franjas-adidas%C2%A0-532792.html?dwvar_532792_color=0300&cgid=mujJuvChaquetasParkas
+532792PM,Parkas Mujer,Pantalon Franjas Adidas ,$30.090,$12.900,https://www.paris.cl/pantalon-franjas-adidas%C2%A0-532792.html?dwvar_532792_color=0300&cgid=mujJuvChaquetasParkas
 580115PM,Parkas Mujer,Biker Suede Opposite,$16.990,$0,https://www.paris.cl/biker-suede-opposite-580115.html?dwvar_580115_color=0960&cgid=mujJuvChaquetasParkas
 590264PM,Parkas Mujer,Parka Sin Manga Entrada Negro Merrell,$74.990,$0,https://www.paris.cl/parka-sin-manga-entrada-negro-merrell-590264.html?dwvar_590264_color=0001&cgid=mujJuvChaquetasParkas
 647923PM,Parkas Mujer,Chaqueta Single Breasted Topshop,$89.990,$0,https://www.paris.cl/chaqueta-single-breasted-topshop-647923.html?dwvar_647923_color=9999&cgid=mujJuvChaquetasParkas
@@ -170,8 +170,8 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 574077PM,Parkas Mujer,Chaqueta Tie Dye Opposite,$29.990,$0,https://www.paris.cl/chaqueta-tie-dye-opposite-574077.html?dwvar_574077_color=0002&cgid=mujJuvChaquetasParkas
 473184PM,Parkas Mujer,Chaqueta Floral Umbrale ,$49.990,$0,https://www.paris.cl/chaqueta-floral-umbrale%C2%A0-473184.html?dwvar_473184_color=0960&cgid=mujJuvChaquetasParkas
 590312PM,Parkas Mujer,Parka Classic Poly Cartepillar,$49.990,$0,https://www.paris.cl/parka-classic-poly-cartepillar-590312.html?dwvar_590312_color=0101&cgid=mujJuvChaquetasParkas
-560221PM,Parkas Mujer,Chaqueta Cuero Topshop,$129.990,$199.990,https://www.paris.cl/chaqueta-cuero-topshop-560221.html?dwvar_560221_color=9999&cgid=mujJuvChaquetasParkas
-487783PM,Parkas Mujer,Casaca Mujer Diseño Cierre Cruzado Maui,$32.990,$54.990,https://www.paris.cl/casaca-mujer-diseno-cierre-cruzado-maui-487783.html?dwvar_487783_color=0020&cgid=mujJuvChaquetasParkas
+560221PM,Parkas Mujer,Chaqueta Cuero Topshop,$129.990,$70.000,https://www.paris.cl/chaqueta-cuero-topshop-560221.html?dwvar_560221_color=9999&cgid=mujJuvChaquetasParkas
+487783PM,Parkas Mujer,Casaca Mujer Diseño Cierre Cruzado Maui,$32.990,$22.000,https://www.paris.cl/casaca-mujer-diseno-cierre-cruzado-maui-487783.html?dwvar_487783_color=0020&cgid=mujJuvChaquetasParkas
 590260PM,Parkas Mujer,Parka Entrada Merrell,$74.990,$0,https://www.paris.cl/parka-entrada-merrell-590260.html?dwvar_590260_color=0610&cgid=mujJuvChaquetasParkas
 514373PM,Parkas Mujer,Chaqueta Raw Camouflage Topshop,$49.990,$0,https://www.paris.cl/chaqueta-raw-camouflage-topshop-514373.html?dwvar_514373_color=9999&cgid=mujJuvChaquetasParkas
 653225PM,Parkas Mujer,Chaqueta Longline Ecru Topshop,$59.990,$0,https://www.paris.cl/chaqueta-longline-ecru-topshop-653225.html?dwvar_653225_color=9999&cgid=mujJuvChaquetasParkas
@@ -179,40 +179,40 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 882956PM,Parkas Mujer,Chaqueta Larga Pelo Setepontocinco,$45.990,$0,https://www.paris.cl/chaqueta-larga-pelo-setepontocinco-882956.html?dwvar_882956_color=0001&cgid=mujJuvChaquetasParkas
 526237PM,Parkas Mujer,Chaqueta Hacked Fitted Denim Topshop,$54.990,$0,https://www.paris.cl/chaqueta-hacked-fitted-denim-topshop-526237.html?dwvar_526237_color=9999&cgid=mujJuvChaquetasParkas
 474583PM,Parkas Mujer,Casaca Reversible Aussie,$44.990,$0,https://www.paris.cl/casaca-reversible-aussie-474583.html?dwvar_474583_color=0001&cgid=mujJuvChaquetasParkas
-474419PM,Parkas Mujer,Chaqueta Moda Opposite,$19.990,$24.990,https://www.paris.cl/chaqueta-moda-opposite-474419.html?dwvar_474419_color=0230&cgid=mujJuvChaquetasParkas
-532778PM,Parkas Mujer,Calza Originals Negro Adidas ,$17.490,$24.990,https://www.paris.cl/calza-originals-negro-adidas%C2%A0-532778.html?dwvar_532778_color=0001&cgid=mujJuvChaquetasParkas
-566807PM,Parkas Mujer,Abrigo Cropped Faux Fur Topshop,$31.990,$79.990,https://www.paris.cl/abrigo-cropped-faux-fur-topshop-566807.html?dwvar_566807_color=9999&cgid=mujJuvChaquetasParkas
-648204JM,Jeans Mujer,Jeans Wide Leg Tiro Medio Foster,$29.990,$32.990,https://www.paris.cl/jeans-wide-leg-tiro-medio-foster-648204.html?dwvar_648204_color=0330&cgid=mujJuvJeans
-113653JM,Jeans Mujer,Jeans Push Up Opposite,$5.990,$7.990,https://www.paris.cl/jeans-push-up-opposite-113653.html?dwvar_113653_color=0400&cgid=mujJuvJeans
-113619JM,Jeans Mujer,Jeans Denim Opposite,$5.990,$7.990,https://www.paris.cl/jeans-denim-opposite-113619.html?dwvar_113619_color=0011&cgid=mujJuvJeans
-324151JM,Jeans Mujer,Jeans Jamie Negro Gastado L 32 Topshop,$19.990,$49.990,https://www.paris.cl/jeans-jamie-negro-gastado-l-32-topshop-324151.html?dwvar_324151_color=9999&cgid=mujJuvJeans
-113617JM,Jeans Mujer,Legging Alto Opposite,$5.990,$7.990,https://www.paris.cl/legging-alto-opposite-113617.html?dwvar_113617_color=0011&cgid=mujJuvJeans
-306973JM,Jeans Mujer,Jeans Jamie Azul L 30 Topshop,$19.990,$49.990,https://www.paris.cl/jeans-jamie-azul-l-30-topshop-306973.html?dwvar_306973_color=9999&cgid=mujJuvJeans
-518558JM,Jeans Mujer,Jeans Jegging Denim X American Eagle,$9.990,$34.990,https://www.paris.cl/jeans-jegging-denim-x-american-eagle-518558.html?dwvar_518558_color=0436&cgid=mujJuvJeans
-794201JM,Jeans Mujer,Jeans Jegging American Eagle,$17.990,$44.990,https://www.paris.cl/jeans-jegging-american-eagle-794201.html?dwvar_794201_color=0122&cgid=mujJuvJeans
+474419PM,Parkas Mujer,Chaqueta Moda Opposite,$19.990,$5.000,https://www.paris.cl/chaqueta-moda-opposite-474419.html?dwvar_474419_color=0230&cgid=mujJuvChaquetasParkas
+532778PM,Parkas Mujer,Calza Originals Negro Adidas ,$17.490,$7.500,https://www.paris.cl/calza-originals-negro-adidas%C2%A0-532778.html?dwvar_532778_color=0001&cgid=mujJuvChaquetasParkas
+566807PM,Parkas Mujer,Abrigo Cropped Faux Fur Topshop,$31.990,$48.000,https://www.paris.cl/abrigo-cropped-faux-fur-topshop-566807.html?dwvar_566807_color=9999&cgid=mujJuvChaquetasParkas
+648204JM,Jeans Mujer,Jeans Wide Leg Tiro Medio Foster,$29.990,$3.000,https://www.paris.cl/jeans-wide-leg-tiro-medio-foster-648204.html?dwvar_648204_color=0330&cgid=mujJuvJeans
+113653JM,Jeans Mujer,Jeans Push Up Opposite,$5.990,$2.000,https://www.paris.cl/jeans-push-up-opposite-113653.html?dwvar_113653_color=0400&cgid=mujJuvJeans
+113619JM,Jeans Mujer,Jeans Denim Opposite,$5.990,$2.000,https://www.paris.cl/jeans-denim-opposite-113619.html?dwvar_113619_color=0011&cgid=mujJuvJeans
+324151JM,Jeans Mujer,Jeans Jamie Negro Gastado L 32 Topshop,$19.990,$30.000,https://www.paris.cl/jeans-jamie-negro-gastado-l-32-topshop-324151.html?dwvar_324151_color=9999&cgid=mujJuvJeans
+113617JM,Jeans Mujer,Legging Alto Opposite,$5.990,$2.000,https://www.paris.cl/legging-alto-opposite-113617.html?dwvar_113617_color=0011&cgid=mujJuvJeans
+306973JM,Jeans Mujer,Jeans Jamie Azul L 30 Topshop,$19.990,$30.000,https://www.paris.cl/jeans-jamie-azul-l-30-topshop-306973.html?dwvar_306973_color=9999&cgid=mujJuvJeans
+518558JM,Jeans Mujer,Jeans Jegging Denim X American Eagle,$9.990,$25.000,https://www.paris.cl/jeans-jegging-denim-x-american-eagle-518558.html?dwvar_518558_color=0436&cgid=mujJuvJeans
+794201JM,Jeans Mujer,Jeans Jegging American Eagle,$17.990,$27.000,https://www.paris.cl/jeans-jegging-american-eagle-794201.html?dwvar_794201_color=0122&cgid=mujJuvJeans
 442498JM,Jeans Mujer,Jeans Super Skinny Cristales Cadena Jjo,$29.990,$0,https://www.paris.cl/jeans-super-skinny-cristales-cadena-jjo-442498.html?dwvar_442498_color=0420&cgid=mujJuvJeans
 474501JM,Jeans Mujer,Jeans Tachas Unlimited,$24.990,$0,https://www.paris.cl/jeans-tachas-unlimited-474501.html?dwvar_474501_color=0010&cgid=mujJuvJeans
 582278JM,Jeans Mujer,Jeans Maternity Jamie Flare L30 Topshop,$59.990,$0,https://www.paris.cl/jeans-maternity-jamie-flare-l30-topshop-582278.html?dwvar_582278_color=9999&cgid=mujJuvJeans
-566773JM,Jeans Mujer,Jeans Leigh L 32 Topshop,$34.990,$49.990,https://www.paris.cl/jeans-leigh-l-32-topshop-566773.html?dwvar_566773_color=9999&cgid=mujJuvJeans
-436489JM,Jeans Mujer,Jeans Hi Rise Jegging Ne(X)t Level American Eagle,$21.990,$54.990,https://www.paris.cl/jeans-hi-rise-jegging-next-level-american-eagle-436489.html?dwvar_436489_color=0997&cgid=mujJuvJeans
+566773JM,Jeans Mujer,Jeans Leigh L 32 Topshop,$34.990,$15.000,https://www.paris.cl/jeans-leigh-l-32-topshop-566773.html?dwvar_566773_color=9999&cgid=mujJuvJeans
+436489JM,Jeans Mujer,Jeans Hi Rise Jegging Ne(X)t Level American Eagle,$21.990,$33.000,https://www.paris.cl/jeans-hi-rise-jegging-next-level-american-eagle-436489.html?dwvar_436489_color=0997&cgid=mujJuvJeans
 590148JM,Jeans Mujer,Petite Bleach Rip Mom L28 Topshop,$49.990,$0,https://www.paris.cl/petite-bleach-rip-mom-l28-topshop-590148.html?dwvar_590148_color=9999&cgid=mujJuvJeans
-479605JM,Jeans Mujer,Leggins Pretina Alta Opposite,$12.990,$16.990,https://www.paris.cl/leggins-pretina-alta-opposite-479605.html?dwvar_479605_color=0001&cgid=mujJuvJeans
-359006JM,Jeans Mujer,Jeans Joni L 30 Topshop,$19.990,$39.990,https://www.paris.cl/jeans-joni-l-30-topshop-359006.html?dwvar_359006_color=9999&cgid=mujJuvJeans
-324092JM,Jeans Mujer,Jeans Joni Azul L 32 Topshop,$19.990,$39.990,https://www.paris.cl/jeans-joni-azul-l-32-topshop-324092.html?dwvar_324092_color=9999&cgid=mujJuvJeans
-700314JM,Jeans Mujer,Jeans Basico Skinny Tiro Alto Foster,$19.990,$24.990,https://www.paris.cl/jeans-basico-skinny-tiro-alto-foster-700314.html?dwvar_700314_color=0001&cgid=mujJuvJeans
-324084JM,Jeans Mujer,Jeans Joni Azul L 30 Topshop,$19.990,$39.990,https://www.paris.cl/jeans-joni-azul-l-30-topshop-324084.html?dwvar_324084_color=9999&cgid=mujJuvJeans
-435510JM,Jeans Mujer,Jeans con Banda de Color Opposite,$9.190,$22.990,https://www.paris.cl/jeans-con-banda-de-color-opposite-435510.html?dwvar_435510_color=0401&cgid=mujJuvJeans
-435492JM,Jeans Mujer,Jeans Banda Opposite,$9.190,$22.990,https://www.paris.cl/jeans-banda-opposite-435492.html?dwvar_435492_color=0001&cgid=mujJuvJeans
+479605JM,Jeans Mujer,Leggins Pretina Alta Opposite,$12.990,$4.000,https://www.paris.cl/leggins-pretina-alta-opposite-479605.html?dwvar_479605_color=0001&cgid=mujJuvJeans
+359006JM,Jeans Mujer,Jeans Joni L 30 Topshop,$19.990,$20.000,https://www.paris.cl/jeans-joni-l-30-topshop-359006.html?dwvar_359006_color=9999&cgid=mujJuvJeans
+324092JM,Jeans Mujer,Jeans Joni Azul L 32 Topshop,$19.990,$20.000,https://www.paris.cl/jeans-joni-azul-l-32-topshop-324092.html?dwvar_324092_color=9999&cgid=mujJuvJeans
+700314JM,Jeans Mujer,Jeans Basico Skinny Tiro Alto Foster,$19.990,$5.000,https://www.paris.cl/jeans-basico-skinny-tiro-alto-foster-700314.html?dwvar_700314_color=0001&cgid=mujJuvJeans
+324084JM,Jeans Mujer,Jeans Joni Azul L 30 Topshop,$19.990,$20.000,https://www.paris.cl/jeans-joni-azul-l-30-topshop-324084.html?dwvar_324084_color=9999&cgid=mujJuvJeans
+435510JM,Jeans Mujer,Jeans con Banda de Color Opposite,$9.190,$13.800,https://www.paris.cl/jeans-con-banda-de-color-opposite-435510.html?dwvar_435510_color=0401&cgid=mujJuvJeans
+435492JM,Jeans Mujer,Jeans Banda Opposite,$9.190,$13.800,https://www.paris.cl/jeans-banda-opposite-435492.html?dwvar_435492_color=0001&cgid=mujJuvJeans
 550020JM,Jeans Mujer,Jeans Jamie L32 Topshop,$49.990,$0,https://www.paris.cl/jeans-jamie-l32-topshop-550020.html?dwvar_550020_color=9999&cgid=mujJuvJeans
 640528JM,Jeans Mujer,Jeans Wide Leg Cargo Foster,$29.990,$0,https://www.paris.cl/jeans-wide-leg-cargo-foster-640528.html?dwvar_640528_color=0680&cgid=mujJuvJeans
-474607JM,Jeans Mujer,Jeans Wide Leg Opposite,$12.990,$16.990,https://www.paris.cl/jeans-wide-leg-opposite-474607.html?dwvar_474607_color=0230&cgid=mujJuvJeans
-474601JM,Jeans Mujer,Jeans Desflecado Opposite,$12.990,$16.990,https://www.paris.cl/jeans-desflecado-opposite-474601.html?dwvar_474601_color=0010&cgid=mujJuvJeans
-435534JM,Jeans Mujer,Jeans Aplicacion Opposite,$9.190,$22.990,https://www.paris.cl/jeans-aplicacion-opposite-435534.html?dwvar_435534_color=0001&cgid=mujJuvJeans
-700311JM,Jeans Mujer,Jeans Basico Tiro Medio Foster,$19.990,$24.990,https://www.paris.cl/jeans-basico-tiro-medio-foster-700311.html?dwvar_700311_color=0421&cgid=mujJuvJeans
-359009JM,Jeans Mujer,Jeans Joni L 32 Topshop,$19.990,$39.990,https://www.paris.cl/jeans-joni-l-32-topshop-359009.html?dwvar_359009_color=9999&cgid=mujJuvJeans
+474607JM,Jeans Mujer,Jeans Wide Leg Opposite,$12.990,$4.000,https://www.paris.cl/jeans-wide-leg-opposite-474607.html?dwvar_474607_color=0230&cgid=mujJuvJeans
+474601JM,Jeans Mujer,Jeans Desflecado Opposite,$12.990,$4.000,https://www.paris.cl/jeans-desflecado-opposite-474601.html?dwvar_474601_color=0010&cgid=mujJuvJeans
+435534JM,Jeans Mujer,Jeans Aplicacion Opposite,$9.190,$13.800,https://www.paris.cl/jeans-aplicacion-opposite-435534.html?dwvar_435534_color=0001&cgid=mujJuvJeans
+700311JM,Jeans Mujer,Jeans Basico Tiro Medio Foster,$19.990,$5.000,https://www.paris.cl/jeans-basico-tiro-medio-foster-700311.html?dwvar_700311_color=0421&cgid=mujJuvJeans
+359009JM,Jeans Mujer,Jeans Joni L 32 Topshop,$19.990,$20.000,https://www.paris.cl/jeans-joni-l-32-topshop-359009.html?dwvar_359009_color=9999&cgid=mujJuvJeans
 574079JM,Jeans Mujer,Jeans Recto Opposite,$22.990,$0,https://www.paris.cl/jeans-recto-opposite-574079.html?dwvar_574079_color=0450&cgid=mujJuvJeans
 549969JM,Jeans Mujer,Jeans Joni L32 Topshop,$39.990,$0,https://www.paris.cl/jeans-joni-l32-topshop-549969.html?dwvar_549969_color=9999&cgid=mujJuvJeans
-359060JM,Jeans Mujer,Jeans Leigh Azul L 30 Topshop,$19.990,$49.990,https://www.paris.cl/jeans-leigh-azul-l-30-topshop-359060.html?dwvar_359060_color=9999&cgid=mujJuvJeans
+359060JM,Jeans Mujer,Jeans Leigh Azul L 30 Topshop,$19.990,$30.000,https://www.paris.cl/jeans-leigh-azul-l-30-topshop-359060.html?dwvar_359060_color=9999&cgid=mujJuvJeans
 442403JM,Jeans Mujer,Jeggins Cintura Pu Jjo,$29.990,$0,https://www.paris.cl/jeggins-cintura-pu-jjo-442403.html?dwvar_442403_color=0001&cgid=mujJuvJeans
 474619JM,Jeans Mujer,Jeans Franjas Opposite,$22.990,$0,https://www.paris.cl/jeans-franjas-opposite-474619.html?dwvar_474619_color=0001&cgid=mujJuvJeans
 582261JM,Jeans Mujer,Jeans Maternity Over The Bump Straight L30 Topshop,$49.990,$0,https://www.paris.cl/jeans-maternity-over-the-bump-straight-l30-topshop-582261.html?dwvar_582261_color=9999&cgid=mujJuvJeans
@@ -223,9 +223,9 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 582281JM,Jeans Mujer,Jeans Maternity Mom Over Bump Ripped L30 Topshop,$49.990,$0,https://www.paris.cl/jeans-maternity-mom-over-bump-ripped-l30-topshop-582281.html?dwvar_582281_color=9999&cgid=mujJuvJeans
 560247JM,Jeans Mujer,Jeans Petite Washed Black Mom L28 Topshop,$49.990,$0,https://www.paris.cl/jeans-petite-washed-black-mom-l28-topshop-560247.html?dwvar_560247_color=9999&cgid=mujJuvJeans
 212959Cal,Calzones,Pack 2 Cuadro Algodon Elasticado 10702P Intime,$6.990,$0,https://www.paris.cl/pack-2-cuadro-algodon-elasticado-10702p-intime-212959.html?dwvar_212959_color=0100&cgid=mujIntCalzones
-481190Cal,Calzones,Calzon Autumn Femenine Women Secret,$3.990,$9.990,https://www.paris.cl/calzon-autumn-femenine-womensecret-481190.html?dwvar_481190_color=0022&cgid=mujIntCalzones
+481190Cal,Calzones,Calzon Autumn Femenine Women Secret,$3.990,$6.000,https://www.paris.cl/calzon-autumn-femenine-womensecret-481190.html?dwvar_481190_color=0022&cgid=mujIntCalzones
 314469Cal,Calzones,Pack 2 Pantaleta Algodon Elasticado 96633P Intime,$4.990,$0,https://www.paris.cl/pack-2-pantaleta-algodon-elasticado-96633p-intime-314469.html?dwvar_314469_color=0100&cgid=mujIntCalzones
-481135Cal,Calzones,Calzon Autumn Femenine Women Secret,$3.990,$9.990,https://www.paris.cl/calzon-autumn-femenine-womensecret-481135.html?dwvar_481135_color=0311&cgid=mujIntCalzones
+481135Cal,Calzones,Calzon Autumn Femenine Women Secret,$3.990,$6.000,https://www.paris.cl/calzon-autumn-femenine-womensecret-481135.html?dwvar_481135_color=0311&cgid=mujIntCalzones
 123969Cal,Calzones,Calzon 4126 Flores,$9.990,$0,https://www.paris.cl/calzon-4126-flores-123969.html?dwvar_123969_color=0001&cgid=mujIntCalzones
 819265Cal,Calzones,Cuadro Maxi 2361 Algodon Intime,$4.990,$0,https://www.paris.cl/cuadro-maxi-2361-algodon-intime-819265.html?dwvar_819265_color=0100&cgid=mujIntCalzones
 580465Cal,Calzones,Calzon Black Ecru Tiras Women Secret,$9.990,$0,https://www.paris.cl/calzon-black-ecru-tiras-womensecret-580465.html?dwvar_580465_color=0211&cgid=mujIntCalzones
@@ -234,7 +234,7 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 695871Cal,Calzones,Calzon Boxer 4138 Flores,$7.990,$0,https://www.paris.cl/calzon-boxer-4138-flores-695871.html?dwvar_695871_color=0001&cgid=mujIntCalzones
 236513Cal,Calzones,Pack 3 Pantaleta algodon Elasticado 96881 Intime,$8.990,$0,https://www.paris.cl/pack-3-pantaleta-algodon-elasticado-96881-intime-236513.html?dwvar_236513_color=0021&cgid=mujIntCalzones
 347011Cal,Calzones,Pack 3X Calzon Pantaleta 11660 Flores,$9.990,$0,https://www.paris.cl/pack-3x-calzon-pantaleta-11660-flores-347011.html?dwvar_347011_color=0999&cgid=mujIntCalzones
-481186Cal,Calzones,Calzon Autumn Femenine Women Secret,$5.490,$9.990,https://www.paris.cl/calzon-autumn-femenine-womensecret-481186.html?dwvar_481186_color=0660&cgid=mujIntCalzones
+481186Cal,Calzones,Calzon Autumn Femenine Women Secret,$5.490,$4.500,https://www.paris.cl/calzon-autumn-femenine-womensecret-481186.html?dwvar_481186_color=0660&cgid=mujIntCalzones
 236792Cal,Calzones,Pack 3 Pantaletas Algodon Elasticado 98699 Intime,$7.990,$0,https://www.paris.cl/pack-3-pantaletas-algodon-elasticado-98699-intime-236792.html?dwvar_236792_color=0001&cgid=mujIntCalzones
 372249Cal,Calzones,Calzon Encaje Colaless Alaniz,$4.990,$0,https://www.paris.cl/calzon-encaje-colaless-alaniz-372249.html?dwvar_372249_color=0020&cgid=mujIntCalzones
 212958Cal,Calzones,Pack 2 Pantaleta Algodon Elasticado 14702P Intime,$5.990,$0,https://www.paris.cl/pack-2-pantaleta-algodon-elasticado-14702p-intime-212958.html?dwvar_212958_color=0100&cgid=mujIntCalzones
@@ -248,9 +248,9 @@ item_id,categoria,nombre_de_producto,precio_de_producto,precio_normal,url_produc
 940374Cal,Calzones,Calzon Bikini Encaje Opposite,$3.990,$0,https://www.paris.cl/calzon-bikini-encaje-opposite-940374.html?dwvar_940374_color=0021&cgid=mujIntCalzones
 598050Cal,Calzones,Calzon Encaje Opposite,$3.990,$0,https://www.paris.cl/calzon-encaje-opposite-598050.html?dwvar_598050_color=0021&cgid=mujIntCalzones
 484747Cal,Calzones,Calzon Maxi Palmers,$5.990,$0,https://www.paris.cl/calzon-maxi-palmers-484747.html?dwvar_484747_color=0100&cgid=mujIntCalzones
-481170Cal,Calzones,Calzon Autumn Femenine Women Secret,$5.490,$9.990,https://www.paris.cl/calzon-autumn-femenine-womensecret-481170.html?dwvar_481170_color=0311&cgid=mujIntCalzones
-598013Cal,Calzones,Calzon Bikini Microfibra Opposite,$3.490,$4.990,https://www.paris.cl/calzon-bikini-microfibra-opposite-598013.html?dwvar_598013_color=0460&cgid=mujIntCalzones
-393815Cal,Calzones,Calzon Funcional Bermuda Liz,$10.790,$17.990,https://www.paris.cl/calzon-funcional-bermuda-liz-393815.html?dwvar_393815_color=0001&cgid=mujIntCalzones
+481170Cal,Calzones,Calzon Autumn Femenine Women Secret,$5.490,$4.500,https://www.paris.cl/calzon-autumn-femenine-womensecret-481170.html?dwvar_481170_color=0311&cgid=mujIntCalzones
+598013Cal,Calzones,Calzon Bikini Microfibra Opposite,$3.490,$1.500,https://www.paris.cl/calzon-bikini-microfibra-opposite-598013.html?dwvar_598013_color=0460&cgid=mujIntCalzones
+393815Cal,Calzones,Calzon Funcional Bermuda Liz,$10.790,$7.200,https://www.paris.cl/calzon-funcional-bermuda-liz-393815.html?dwvar_393815_color=0001&cgid=mujIntCalzones
 580463Cal,Calzones,Calzon Black Ecru Flores Women Secret,$9.990,$0,https://www.paris.cl/calzon-black-ecru-flores-womensecret-580463.html?dwvar_580463_color=0001&cgid=mujIntCalzones
 230617Cal,Calzones,Calzon Under Control Liz,$19.990,$0,https://www.paris.cl/calzon-under-control-liz-230617.html?dwvar_230617_color=0001&cgid=mujIntCalzones
 580472Cal,Calzones,Calzon Femenine Daily Women Secret,$9.990,$0,https://www.paris.cl/calzon-femenine-daily-womensecret-580472.html?dwvar_580472_color=0311&cgid=mujIntCalzones

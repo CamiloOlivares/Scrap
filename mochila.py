@@ -67,7 +67,7 @@ with open('tablas/Paris.csv') as csv_file:
         else:
         	ind.append(row[0])	
         	wt.append(int(row[3].replace('$','').replace('.','')))
-	        val.append(abs(int(row[4].replace('$','').replace('.',''))-int(row[3].replace('$','').replace('.',''))))
+	        val.append(abs(int(row[4].replace('$','').replace('.',''))))
 	        line_count += 1
     print(f'Processed {line_count} lines.')
 
