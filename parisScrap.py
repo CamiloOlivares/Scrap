@@ -117,7 +117,7 @@ for i in my_url:
 			categoria ="Calzones"			
 					
 		if product_price != "N/A" and descargaExitosa[1]!='':
-			f.write(item_id + ","+categoria+","+product_name + "," + product_price + "," + precioNormal +","+ product_url + "\n")
+			f.write(item_id+categoriaId + ","+categoria+","+product_name + "," + product_price + "," + precioNormal +","+ product_url + "\n")
 	contador += 1		
 f.close()
 

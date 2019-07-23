@@ -28,11 +28,12 @@ class FractionalKnapSack:
         iVal = [] 
         for i in range(len(wt)): 
             iVal.append(ItemValue(wt[i], val[i], ind[i])) 
-  
+  		
         # sorting items by value 
-        iVal = sorted(iVal,key=lambda product:product.wt) 
-        for i in range(len(wt)):
-        	print("product peso",iVal[i].wt,iVal[i].ind)
+        iVal.sort(reverse = True) 
+        #iVal = sorted(iVal,key=lambda product:product.wt) 
+        #for i in range(len(wt)):
+        #	print("product peso",iVal[i].wt,iVal[i].ind)
 
         totalValue = 0
         print(len(iVal))
@@ -61,7 +62,7 @@ ind = []
 capacity = 100000
 
 
-with open('tablas/parkasM.csv') as csv_file:
+with open('tablas/Paris.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:
@@ -71,7 +72,7 @@ with open('tablas/parkasM.csv') as csv_file:
         else:
         	ind.append(int(row[0]))	
         	wt.append(int(row[3].replace('$','').replace('.','')))
-	        val.append(int(row[3].replace('$','').replace('.','')))	
+	        val.append(int(row[4].replace('$','').replace('.','')))	
 	        line_count += 1
     print(f'Processed {line_count} lines.')
 
