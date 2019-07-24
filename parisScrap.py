@@ -22,7 +22,7 @@ def normalize(s):
 
 #termino de definicion de funciones
 
-my_url= ['https://www.paris.cl/mujer/moda-juvenil/chaquetas-parkas/','https://www.paris.cl/hombre/moda-juvenil/camisas/','https://www.paris.cl/hombre/moda-juvenil/jeans/','https://www.paris.cl/hombre/ropa-interior/boxers/','https://www.paris.cl/mujer/moda-juvenil/chaquetas-parkas/','https://www.paris.cl/mujer/moda-juvenil/jeans/','https://www.paris.cl/mujer/ropa-interior/calzones/']
+my_url= ['https://www.paris.cl/hombre/moda-juvenil/chaquetas-parkas/','https://www.paris.cl/hombre/moda-juvenil/camisas/','https://www.paris.cl/hombre/moda-juvenil/jeans/','https://www.paris.cl/hombre/ropa-interior/boxers/','https://www.paris.cl/mujer/moda-juvenil/chaquetas-parkas/','https://www.paris.cl/mujer/moda-juvenil/jeans/','https://www.paris.cl/mujer/ropa-interior/calzones/']
 
 #Creo un documento vacio
 filename = "tablas/Paris.csv"
