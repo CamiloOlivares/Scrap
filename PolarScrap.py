@@ -17,7 +17,7 @@ def normalize(s):
 		)
 	for a,b in replacements:
 		s = s.replace(a,b).replace(a.upper(),b.upper())
-	return s.replace("'"," ").replace("&"," ")		
+	return s.replace("'"," ").replace("&"," ").replace("ñ","n")		
 
 my_url = ['https://www.lapolar.cl/moda/ropa-hombre/chaquetas-parkas/','https://www.lapolar.cl/moda/ropa-mujer/chaquetas-parkas/',]
 

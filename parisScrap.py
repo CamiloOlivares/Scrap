@@ -18,7 +18,7 @@ def normalize(s):
 		)
 	for a,b in replacements:
 		s = s.replace(a,b).replace(a.upper(),b.upper())
-	return s.replace("'"," ").replace("&"," ")		
+	return s.replace("'"," ").replace("&"," ").replace("ñ","n")		
 
 #termino de definicion de funciones
 
@@ -86,7 +86,7 @@ for i in my_url:
 		imageContainer=imageContainer.find("img",{"class":"img-prod lazy"})
 
 		image_url=imageContainer["data-src"]
-		descargaExitosa = ('','')
+
 		categoriaId = ""
 		if contador == 0:
 			categoriaId = "PH"
@@ -102,7 +102,8 @@ for i in my_url:
 			categoriaId = "JM"
 		elif contador == 6:
 			categoriaId ="Cal"
-		descargaExitosa = dl_jpg(image_url,'/home/shiru/Escritorio/pruebas raras/Scrap/Scraping/img_paris/',item_id+categoriaId)
+		
+		dl_jpg(image_url,'/home/shiru/Escritorio/pruebas raras/Scrap/Scraping/img_paris/',item_id+categoriaId)
 
 
 		#print("product_name" + product_name)
@@ -125,9 +126,11 @@ for i in my_url:
 		elif contador == 6:
 			categoria ="Calzones"			
 					
-		if product_price != "N/A" and descargaExitosa[1]!='':
+		if product_price != "N/A":
 			f.write(item_id+categoriaId + ","+categoria+","+product_name + "," + product_price + "," + descuento +","+ product_url + "\n")
-	contador += 1		
+
+	contador = contador + 1	
+
 f.close()
 
  
